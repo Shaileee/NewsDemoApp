@@ -81,4 +81,8 @@ Clean Architecture separates the code into layers to ensure modularity and maint
 - **Modularization**: Each feature is placed in a separate module for better scalability.
 - **Unit tests**
 
+## Setup Instructions
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shaileee/NewsDemoApp.git
