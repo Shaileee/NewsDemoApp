@@ -54,9 +54,7 @@ where all the important data and operations are defined. It is independent of an
 
 - **repository/**
     - `CompanyNewsRepository.kt`: The repository interface defining methods for news articles details.
-      
-- **repository/**
-- 'GetCompaniesNewsUseCase.kt': defines usecases for news articles
+    - 'GetCompaniesNewsUseCase.kt': defines usecases for news articles
 
 - ### Data: Responsible for interacting with external data sources (e.g., APIs, databases)
 - The Data Layer handles data management and is responsible for accessing and providing data to the domain layer.
